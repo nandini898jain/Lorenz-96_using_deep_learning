@@ -1,4 +1,4 @@
-# data_driven_spatio_temporal
+# Lorenz 96 _using_deep_learning
 These codes are provided in addition to the paper named "Data-driven prediction of a multi-scale Lorenz 96 chaotic system using deep learning methods: Reservoir computing, ANN, and RNN-LSTM" 
 Link: https://arxiv.org/pdf/1906.08829v3
 In this paper, the performance of three deep learning methods for predicting short-term evolution of a multi-scale spatio-temporal Lorenz 96 system is examined. 
